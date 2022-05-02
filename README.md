@@ -16,7 +16,7 @@ You can also go to https://challenge.isic-archive.com/data/#2017 to acquire the 
 
 ## 4. Train/Test
 
-- Run the train script on synapse dataset. The batch size we used is 24. If you do not have enough GPU memory, the bacth size can be reduced to 12 or 6 to save memory.
+- Run the train script on synapse dataset. The batch size we used is 24. If you do not have enough GPU memory, the bacth size can be reduced to 12 or 6 to save memory. For more information, contact 1072739254@qq.com。
 
 - Train
 
