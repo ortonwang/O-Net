@@ -8,7 +8,7 @@ The codes for the work "O-Net:
 ## 2. Prepare data
 
 - The datasets we used are provided by TransUnet's authors. Please go to ["./datasets/README.md"](datasets/README.md) for details, or please send an Email to 1072739254@qq.com or jienengchen01 AT gmail.com to request the preprocessed data. If you would like to use the preprocessed data, please use it for research purposes and do not redistribute it (following the TransUnet's License).
-You can also go to https://challenge.isic-archive.com/data/#2017 to acquire the ISIC2017 dataset.
+You can also go to https://challenge.isic-archive.com/data/#2017 to acquire the ISIC2017 dataset. Process the label from the csv file for training. Change the imgs_train_path, imgs_val_path, imgs_test_path in the train_class_after_segmentation to the path of the corresponding path.
 
 ## 3. Environment
 
@@ -28,6 +28,10 @@ sh train.sh
 ```bash
 sh test.sh 
 ```
+
+About classification:
+bash train_classification.sh
+
 
 ## References
 * [TransUnet](https://github.com/Beckschen/TransUNet)
