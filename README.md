@@ -37,8 +37,9 @@ bash train_classification.sh
 * [TransUnet](https://github.com/Beckschen/TransUNet)
 * [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
 * [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet.)
+* 
 ## Citation
-
+https://doi.org/10.3389/fnins.2022.876065
 
 # O-Net
 
