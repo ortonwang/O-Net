@@ -32,6 +32,8 @@ sh test.sh
 About classification:
 bash train_classification.sh
 
+## Paper
+https://doi.org/10.3389/fnins.2022.876065
 
 ## References
 * [TransUnet](https://github.com/Beckschen/TransUNet)
@@ -39,7 +41,14 @@ bash train_classification.sh
 * [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet.)
 * 
 ## Citation
-https://doi.org/10.3389/fnins.2022.876065
+@article{wangnet,
+  title={O-Net: A novel framework with deep fusion of CNN and Transformer for Simultaneous Segmentation and Classification},
+  author={Wang, Tao and Lan, Junlin and Han, Zixin and Hu, Ziwei and Huang, Yuxiu and Deng, Yanglin and Zhang, Hejun and Wang, Jianchao and Chen, Musheng and Jiang, Haiyan and others},
+  journal={Frontiers in Neuroscience},
+  pages={772},
+  publisher={Frontiers}
+}
+
 
 # O-Net
 
